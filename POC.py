@@ -1,3 +1,6 @@
+# Copyright (C)
+# Author: Dylan Muller
+	
 import os.path
 from os import path
 import json
